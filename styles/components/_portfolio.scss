@@ -41,55 +41,55 @@
 }
 
 .portfolio__movie {
-   background-image: url(../../assets/img/movie.jpg);
+   background-image: url(../assets/img/movie.jpg);
 }
 .portfolio__movie:hover::before{
    content: "Movie App";
 }
 .portfolio__audio {
-   background-image: url(../../assets/img/audio.jpg);
+   background-image: url(../assets/img/audio.jpg);
 }
 .portfolio__audio:hover::before{
    content: "Audio player";
 }
 .portfolio__portfolio {
-   background-image: url(../../assets/img/portfolio.jpg);
+   background-image: url(../assets/img/portfolio.jpg);
 }
 .portfolio__portfolio:hover::before{
    content: "Portfolio page";
 }
 .portfolio__shelter{
-   background-image: url(../../assets/img/Shelter.jpg);
+   background-image: url(../assets/img/Shelter.jpg);
 }
 .portfolio__shelter:hover::before{
    content: "Shelter page";
 }
 .portfolio__keyboard{
-   background-image: url(../../assets/img/keyboard.jpg);
+   background-image: url(../assets/img/keyboard.jpg);
 }
 .portfolio__keyboard:hover::before{
    content: "Keyboard app";
 }
 .portfolio__slider{
-   background-image: url(../../assets/img/slider.jpg);
+   background-image: url(../assets/img/slider.jpg);
 }
 .portfolio__slider:hover::before{
    content: "Vertical slider";
 }
 .portfolio__tictactoe{
-   background-image: url(../../assets/img/tictactoe.jpg);
+   background-image: url(../assets/img/tictactoe.jpg);
 }
 .portfolio__tictactoe:hover::before{
    content: "Tic Tac Toe";
 }
 .portfolio__video{
-   background-image: url(../../assets/img/video.jpg);
+   background-image: url(../assets/img/video.jpg);
 }
 .portfolio__video:hover::before{
    content: "Video player";
 }
 .portfolio__css{
-   background-image: url(../../assets/img/cssmem.jpg);
+   background-image: url(../assets/img/cssmem.jpg);
 }
 .portfolio__css:hover::before{
    content: "CSS slider";

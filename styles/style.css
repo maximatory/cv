@@ -250,7 +250,7 @@ h2 {
 }
 
 .portfolio__movie {
-  background-image: url(../../assets/img/movie.jpg);
+  background-image: url(../assets/img/movie.jpg);
 }
 
 .portfolio__movie:hover::before {
@@ -258,7 +258,7 @@ h2 {
 }
 
 .portfolio__audio {
-  background-image: url(../../assets/img/audio.jpg);
+  background-image: url(../assets/img/audio.jpg);
 }
 
 .portfolio__audio:hover::before {
@@ -266,7 +266,7 @@ h2 {
 }
 
 .portfolio__portfolio {
-  background-image: url(../../assets/img/portfolio.jpg);
+  background-image: url(../assets/img/portfolio.jpg);
 }
 
 .portfolio__portfolio:hover::before {
@@ -274,7 +274,7 @@ h2 {
 }
 
 .portfolio__shelter {
-  background-image: url(../../assets/img/Shelter.jpg);
+  background-image: url(../assets/img/Shelter.jpg);
 }
 
 .portfolio__shelter:hover::before {
@@ -282,7 +282,7 @@ h2 {
 }
 
 .portfolio__keyboard {
-  background-image: url(../../assets/img/keyboard.jpg);
+  background-image: url(../assets/img/keyboard.jpg);
 }
 
 .portfolio__keyboard:hover::before {
@@ -290,7 +290,7 @@ h2 {
 }
 
 .portfolio__slider {
-  background-image: url(../../assets/img/slider.jpg);
+  background-image: url(../assets/img/slider.jpg);
 }
 
 .portfolio__slider:hover::before {
@@ -298,7 +298,7 @@ h2 {
 }
 
 .portfolio__tictactoe {
-  background-image: url(../../assets/img/tictactoe.jpg);
+  background-image: url(../assets/img/tictactoe.jpg);
 }
 
 .portfolio__tictactoe:hover::before {
@@ -306,7 +306,7 @@ h2 {
 }
 
 .portfolio__video {
-  background-image: url(../../assets/img/video.jpg);
+  background-image: url(../assets/img/video.jpg);
 }
 
 .portfolio__video:hover::before {
@@ -314,7 +314,7 @@ h2 {
 }
 
 .portfolio__css {
-  background-image: url(../../assets/img/cssmem.jpg);
+  background-image: url(../assets/img/cssmem.jpg);
 }
 
 .portfolio__css:hover::before {
